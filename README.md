@@ -1,6 +1,6 @@
-# example
+# Shareleaks Register App
 
-A new Flutter project.
+A simple Flutter app allowing users to register to a newsletter.
 
 ## Getting Started
 
